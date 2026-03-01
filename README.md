@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @prestermacha
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on software developing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋 I'm Macha
 
-<!---
-prestermacha/prestermacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Backend Developer
+
+- 🔭 Currently building scalable Django systems
+- 🌱 Learning System Design & Microservices
+- 💬 Ask me about Django, Flutter, REST APIs,Devops
+- 📫 Reach me: machabenedicto771@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+- Backend: Django, Django REST Framework
+- Mobile: Flutter
+- Database: PostgreSQL, MySQL
+- DevOps: Docker
+- Version Control: Git & GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
